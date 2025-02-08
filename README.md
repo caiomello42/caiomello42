@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021...<br><br>📚 Currently learning Web Development (HTML5, CSS3, Bootstrap, JavaScript) and Back-End (PHP, Python, Django, Node.js).<br><br>🎯 Goals: Improve in back-end development and build real-world projects.<br><br>🎲 Fun fact: I once spent 3 hours debugging a typo in a variable name.</p>
+<p align="left">✨ Creating bugs since 2021...<br><br>📚 Currently learning Web Development (HTML5, CSS3, Bootstrap, JavaScript) and Back-End (PHP, Python, Django, Node.js).<br>🎯 Goals: Improve in back-end development and build real-world projects.<br>🎲 Fun fact: I once spent 3 hours debugging a typo in a variable name.</p>
 
 ###
 
