@@ -47,7 +47,7 @@
 
 ### 🐍 Minhas contribuições animadas
 
-![Snake animation](https://raw.githubusercontent.com/caiomello42/caiomello42/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/caiomello42/caiomello42/output/github-contribution-grid-snake.svg
 
 
 ###
