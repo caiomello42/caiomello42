@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021...<br><br>📚 Currently learning Web Development (HTML5, CSS3, Bootstrap, JavaScript) and Back-End (PHP, Python, Django, Node.js).<br>🎯 Goals: Improve in back-end development and build real-world projects.<br>🎲 Fun fact: I once spent 3 hours debugging a typo in a variable name.</p>
+<p align="left">✨ Creating bugs since 2023...<br><br>📚 Currently learning Web Development (HTML5, CSS3, Bootstrap, JavaScript) and Back-End (PHP, Python, Django, Node.js).<br>🎯 Goals: Improve in back-end development and build real-world projects.<br>🎲 Fun fact: I once spent 3 hours debugging a typo in a variable name.</p>
 
 ###
 
@@ -39,6 +39,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomello42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomello42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/caiomello42/caiomello42/output/snake.svg" alt="Snake animation" />
 
 ###
