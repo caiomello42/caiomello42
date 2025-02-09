@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/caiomello42/caiomello42/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/caiomello42/caiomello42/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
