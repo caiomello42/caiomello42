@@ -71,6 +71,14 @@
 
 ###
 
+**OAuth 2.0 Integration with GitHub**  
+Developed OAuth 2.0 authentication for a Django application, enabling secure login and automatic user registration in the Django Admin interface for access management.
+
+**Portfolio Project**  
+Check out my personal portfolio at [My Portfolio](https://dev-caio-mello.netlify.app/). A full-stack personal portfolio built with HTML, CSS, JavaScript for the front-end, and Python for back-end logic, including a contact management system with email integration.
+
+**Full Stack PHP Medical Management System**  
+A CRUD application for clinic management, focusing on back-end logic and data structure using **PHP**, **MySQL**, and **phpMyAdmin** for managing patients, doctors, and appointments.
 
 ###
 
