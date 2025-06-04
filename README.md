@@ -64,6 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+###
 
 **OAuth 2.0 Integration with GitHub**  
 Developed OAuth 2.0 authentication for a Django application, enabling secure login and automatic user registration in the Django Admin interface for access management.
