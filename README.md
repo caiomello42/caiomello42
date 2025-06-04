@@ -71,6 +71,15 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomello42&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomello42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 **OAuth 2.0 Integration with GitHub**  
 Developed OAuth 2.0 authentication for a Django application, enabling secure login and automatic user registration in the Django Admin interface for access management.
 
@@ -80,11 +89,3 @@ Check out my personal portfolio at [My Portfolio](https://dev-caio-mello.netlify
 **Full Stack PHP Medical Management System**  
 A CRUD application for clinic management, focusing on back-end logic and data structure using **PHP**, **MySQL**, and **phpMyAdmin** for managing patients, doctors, and appointments.
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomello42&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomello42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
