@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
@@ -76,10 +78,10 @@ UDF Centro Universitário – Brasília, DF
 Developed OAuth 2.0 authentication for a Django application, enabling secure login and automatic user registration in the Django Admin interface for access management.
 
 **Portfolio Project**  
-A full-stack personal portfolio built with HTML, CSS, JavaScript for the front-end, and Python for back-end logic, including a contact management system with email integration.
+Check out my personal portfolio at [My Portfolio](https://dev-caio-mello.netlify.app/). A full-stack personal portfolio built with HTML, CSS, JavaScript for the front-end, and Python for back-end logic, including a contact management system with email integration.
 
 **Full Stack PHP Medical Management System**  
-A CRUD application for clinic management, focusing on back-end logic and data structure using PHP and phpMyAdmin for managing patients, doctors, and appointments.
+A CRUD application for clinic management, focusing on back-end logic and data structure using **PHP**, **MySQL**, and **phpMyAdmin** for managing patients, doctors, and appointments.
 
 ---
 
