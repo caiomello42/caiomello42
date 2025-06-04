@@ -2,6 +2,10 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3J6OWFkZWt0MTFmY2FiYjl3b2E3dmdnaXVvNHA4bWM1cGhsdjB0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/caiomello42/count.svg?"  />
+</div>
+
 ###
 
 <div align="center">
@@ -23,9 +27,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/caiomello42/count.svg?"  />
-</div>
 
 ###
 
