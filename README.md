@@ -97,4 +97,4 @@ A CRUD application for clinic management, focusing on back-end logic and data st
 
 
 <h2 align="left">🐍 Fun with Contributions</h2>
-![snake gif](https://github.com/caiomello42/caiomello42/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/caiomello42/caiomello42/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
